@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plataforma de Avisos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Plataforma de Avisos</h1>
+    
+    <div id="notices-list">
+      <!-- Avisos serão carregados aqui -->
+    </div>
+    
+    <div id="add-notice">
+      <h2>Adicionar Aviso</h2>
+      <input type="text" id="title" placeholder="Título">
+      <input type="date" id="date">
+      <textarea id="message" placeholder="Mensagem"></textarea>
+      <button onclick="addNotice()">Adicionar Aviso</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
