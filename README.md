@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de um README.md profissional para o seu projeto OBI - Plataforma de Gestão e Comunicação Escolar:
-
-```markdown
 # OBI - Plataforma de Gestão e Comunicação Escolar
 
 ## Descrição
@@ -47,7 +44,7 @@ Este projeto é uma aplicação web desenvolvida para facilitar a gestão e comu
 
 ## Participantes
 Grupo 6:
-- **ERICK CARRASCO OLIVEIRA** (Representante)
+- ERICK CARRASCO OLIVEIRA
 - JAIRO MARQUES MARINHO
 - RUAN PEDRO PEREIRA GUEDES
 - DANDARA GOUVEIA MENEZES CALUMBY
@@ -55,15 +52,4 @@ Grupo 6:
 - PEDRO LUCAS MARQUES DA SILVA
 - THIAGO MONTEIRO OLIVEIRA TENORIO
 
-## Gráficos
-Aqui estão alguns gráficos representativos das funcionalidades da plataforma:
-
-### Gráfico de Usuários
-!Gráfico de Usuários
-
-### Gráfico de Atividades
-!Gráfico de Atividades
-
-### Gráfico de Feedback
-!Gráfico de Feedback
 
